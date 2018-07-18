@@ -1,0 +1,38 @@
+---
+layout: main
+class: "archive"
+---
+
+<p style="margin-bottom:30px">
+    Vista por <a href="/archivo">Fecha</a> | <strong>Tópicos</strong> 
+</p>
+
+<h2 id='javascript'>Escritos sobre sitios web estáticos</h2>
+
+<p>En esta sección encontrarás una lista de las entradas cuyo tema es acerca de los sitios web estáticos (Jekyll, Hugo, JAM Stack, etc)</p>
+
+<ul>
+  {% for post in site.categories.static %}
+    <li>
+      <a name='08-09-2017' class='' href='{{ post.url }}'>
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+
+</ul>
+
+<h2 id='javascript'>Opinión</h2>
+
+<p>En esta categoría van aquellas entradas con temas más personales y quizá ajenos a la tecnología</p>
+
+<ul>
+  {% for post in site.categories.opinion %}
+    <li>
+      <a name='08-09-2017' class='' href='{{ post.url }}'>
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+
+</ul>

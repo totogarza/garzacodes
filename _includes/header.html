@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang=es>
+<head>
+  <meta charset=utf-8>
+  <meta name=author content='{{ site.author }}' />
+  <meta name='theme-color' content='#fff' />
+  <meta name='twitter:title' content='Archive' />
+  <meta name=description content="" />
+  <meta name=viewport content='width=device-width,minimum-scale=1'>
+  <meta property='og:site_name' content='{{ site.url }}'/>
+  <meta property='og:email' content='{{ site.email }}'/>
+  <meta property='og:type' content=blog />
+  <meta property='twitter:account_id' content={{site.twitter_id}} />
+  
+  <script type='application/ld+json'>
+  { "@context": "http://schema.org",
+    "@type": "CreativeWork","author": "{{site.author}}" }
+  </script>
+  <link rel=alternate type='application/rss+xml' title='macwright.org' href='{{ site.url }}/rss.xml' />
+  <link rel=alternate type='application/atom+xml' title='macwright.org' href='{{ site.url }}/atom.xml' />
+  <link rel=icon type=image/x-icon href=/css/favicon.png />
+  <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/highlight.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/custom.css">
+  <title>{{page.title}}</title>
+  <link rel=webmention href='https://webmention.io/macwright.org/webmention' />
+  
+</head>

@@ -1,0 +1,17 @@
+---
+layout: main
+class: "archive"
+---
+
+<p style="margin-bottom:30px">
+    Vista por <strong>Fecha</strong> | <a href="/topicos">Tópicos</a>
+</p>
+
+<table class="data-table">
+    {% for post in site.posts %}
+    <tr>
+        <td class='code date'>{{ post.date | date_to_string }} — </td>
+        <td><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title}}</a></td>
+    </tr>
+    {% endfor %}
+</table>

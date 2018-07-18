@@ -1,0 +1,12 @@
+.highlighter-rouge {
+    background-color: #752bf7;
+    padding: .1em .3em .2em;
+    border-radius: 3px;
+    color: #fff;
+}
+
+
+.code, g.highlight, li code, p code, pre code {
+    font-size: 12px;
+    padding-top: 4px;
+}
