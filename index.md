@@ -1,6 +1,7 @@
 ---
 layout: main
 class: "post"
+title: "Toto Garza"
 ---
 
 <h4>

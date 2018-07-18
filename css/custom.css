@@ -5,8 +5,11 @@
     color: #fff;
 }
 
-
 .code, g.highlight, li code, p code, pre code {
     font-size: 12px;
     padding-top: 4px;
+}
+
+.image-border {
+    border: 1px solid rgba(0,0,0,0.4);
 }

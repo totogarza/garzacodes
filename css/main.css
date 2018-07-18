@@ -8,14 +8,6 @@ body{
     font-family:-apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif
 }
 
-a{
-    color: #1500ff !important;
-}
-
-.navigation a {
-    font-weight: 600;
-}
-
 @media print{
     .no-print{
         display:none
@@ -55,7 +47,7 @@ a:hover{
 }
 
 a:visited{
-    color:#1500ff;
+    color:#00008b;
 }
 .mb0{
     margin-bottom:0

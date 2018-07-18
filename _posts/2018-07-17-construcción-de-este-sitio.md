@@ -20,9 +20,9 @@ Estoy casi seguro que el sitio de (MacWright) es estático y que para manejarlo 
 
 Sí, mi sitio es un clon en lo visual pero detrás la funcionalidad en **Jekyll** es una ingienrería inversa (no fue nada difícil) y a continuación te explico que es lo que sucede tras bambalinas.
 
-Primero veamos su página de inicio (sí, la de MacWright), si te fijas bien el muestra una sub sección en la que muestra su últimas 5 entradas y después una línea que muestra un vínculo cuyo texto te dice cuantas entradas más tiene en su blog:
+Primero veamos su página de inicio (sí, la de MacWright), si te fijas bien el muestra una sub sección en la que enlista sus últimas 5 entradas y después una línea que muestra un vínculo cuyo texto te dice cuantas entradas más tiene en su blog:
 
-<img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1531873702/Captura_de_pantalla_2018-07-17_a_la_s_18.25.06_n2glap.png" alt="" width="100%"/>
+<img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1531873702/Captura_de_pantalla_2018-07-17_a_la_s_18.25.06_n2glap.png" alt="Captura de sitio clonado" width="80%" class="image-border"/>
 
 Dos cosas están sucediendo aquí:
 
