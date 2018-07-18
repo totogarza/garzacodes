@@ -22,7 +22,7 @@ Sí, mi sitio es un clon en lo visual pero detrás la funcionalidad en **Jekyll*
 
 Primero veamos su página de inicio (sí, la de MacWright), si te fijas bien el muestra una sub sección en la que muestra su últimas 5 entradas y después una línea que muestra un vínculo cuyo texto te dice cuantas entradas más tiene en su blog:
 
-<img src="http://res.cloudinary.com/dfhxsuwjv/image/upload/v1531873702/Captura_de_pantalla_2018-07-17_a_la_s_18.25.06_n2glap.png" alt="" width="100%"/>
+<img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1531873702/Captura_de_pantalla_2018-07-17_a_la_s_18.25.06_n2glap.png" alt="" width="100%"/>
 
 Dos cosas están sucediendo aquí:
 
