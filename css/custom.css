@@ -1,7 +1,8 @@
 .highlighter-rouge {
     padding: .1em .3em .2em;
     border-radius: 3px;
-    color: #fff;
+    background-color: #a29bfe;
+    color: #444;
 }
 
 .code, g.highlight, li code, p code, pre code {
