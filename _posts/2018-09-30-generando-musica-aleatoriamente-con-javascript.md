@@ -22,7 +22,7 @@ En mi caso he recurrido a [#Scribbletune](https://scribbletune.com) (la cual dep
 
 Scribbletune es todo un motor musical para JavaScript la cual nos coloca muy adelante en nuestro objetivo pero aún debemos hacer nuestro trabajo en la parte de generación musical sin interacción humana; y es que Scribbletune te brinda un montón de funcionalidades para que tú manualmente generes tus propias melodías.
 
-Antes de proceder con Scribbletune y la generacion aleatoria te dejo una muestra del audio generado. Esta pieza (no esperes mucho) fue construida con múltiples archivos midi generados con Scribbletune (de manera aleatoria). Estos archivos fueron importados a GarageBand y luego en este elegí los instrumentos que sonaron mejor, a mi gusto, para cada archivo. Así de simple y sin más ni más. 
+Antes de proceder con Scribbletune y la generacion aleatoria te dejo una muestra del audio generado. Esta pieza (no esperes mucho) fue construida con múltiples archivos midi generados con Scribbletune (de manera aleatoria). Estos archivos fueron importados a GarageBand y luego en este elegí los instrumentos que sonaron mejor, a mi gusto, para cada archivo. Así de simple y sin más ni más.
 
 <br>
 <audio src="https://res.cloudinary.com/yipster/video/upload/v1538356341/Proyecto_2_-_30_09_18_18.32_itmali.mp3" controls preload></audio>
