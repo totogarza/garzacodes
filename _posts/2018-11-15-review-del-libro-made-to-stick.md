@@ -2,6 +2,7 @@
 layout: post
 title: Review del libro Made to Stick
 date: 2018-11-15 17:30 -0700
+calification: 5
 ---
 <style>
     #app{
@@ -42,6 +43,8 @@ date: 2018-11-15 17:30 -0700
         <img src="https://res.cloudinary.com/yipster/image/upload/v1542415084/Made-to-stick-830x1262_jwom4v.jpg" width="40%">
     </a>
 </p>
+
+{% include stars.html %}
 
 La meta de los autores de este libro es que comprendas por que la gente no entiende tus ideas y esta gente pueden ser potenciales clientes, o alumnos, o tu pareja, etc. La cuestión es que el libro hace un gran trabajo dándote a entender el problema y lo mejor de todo es que crea un _framework_ para que puedas pulir tus ideas y hacerlas que peguen.
 
