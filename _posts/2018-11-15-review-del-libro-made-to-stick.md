@@ -39,7 +39,7 @@ calification: 5
 </style>
 
 <p id="book_cover">
-    <a href="" target="_blank">
+    <a href="https://www.amazon.com/gp/product/1400064287/ref=as_li_tl?ie=UTF8&tag=tanoshii-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1400064287&linkId=f3876d9b4cc4ec55d1b6d00a6fa6b095" target="_blank">
         <img src="https://res.cloudinary.com/yipster/image/upload/v1542415084/Made-to-stick-830x1262_jwom4v.jpg" width="40%">
     </a>
 </p>
@@ -112,6 +112,9 @@ Debo decir que el libro vale su peso en oro y si puedes debes ir a conseguirlo p
             <p>Tu eres mi potencial cliente y el ritmo golpeteado en la mesa es mi mensaje o en otras palabras eso que has experimentado es lo que sucede cuando asumes que hay información que tu cliente sabe pero en realidad no es así y por tanto el mensaje que le envias le sonará como a tí te ha sonado el audio, a nada, a un montón de ruiditos aleatorios o a una idea que no pegará.</p>
 
             <p>El conocimiento que tienes se ha vuelto en tu contra y al no ser conciente de ello envías mensajes indescifrables; al yo ser la persona que realizaba los golpeteos con una canción en mente a mí me daba sentido que era el _himno de la alegría_ pero tu no sabías eso. Por tanto la canción en mi cabeza es el <b>onocimiento</b> que yo tengo y que creí tu tendrías al escuchar mis golpeteos.</p>
+            <p>
+            <a href="https://www.amazon.com/gp/product/1400064287/ref=as_li_tl?ie=UTF8&tag=tanoshii-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1400064287&linkId=f3876d9b4cc4ec55d1b6d00a6fa6b095" target="_blank">Ver el libro</a>
+            </p>
             `
 
         }else {
@@ -129,7 +132,9 @@ Debo decir que el libro vale su peso en oro y si puedes debes ir a conseguirlo p
             <p>El conocimiento que tienes se ha vuelto en tu contra y al no ser conciente de ello envías mensajes indescifrables.</p>
             
             <p>Al yo ser la persona que realizaba los golpeteos con una canción en mente a mí me daba sentido que era el <b>himno de la alegría</b> pero tu no sabías eso. Por tanto la canción en mi cabeza es el __conocimiento__ que yo tengo y que creí tu tendrías al escuchar mis golpeteos.</p>
-
+            <p>
+                <a href="https://www.amazon.com/gp/product/1400064287/ref=as_li_tl?ie=UTF8&tag=tanoshii-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1400064287&linkId=f3876d9b4cc4ec55d1b6d00a6fa6b095" target="_blank">Ver el libro</a>
+            </p>
             `
         }
     }
