@@ -18,7 +18,7 @@ Las recientes fricciones entre China y Estados Unidos está haciendo que China m
 
 Algunas de las acciones interesantes que China está realizando o comunicando son:
 
-- La declaración sobre las intenciones de recuperar Taiwan para regresarlo a su control
+- La declaración sobre las intenciones de recuperar Taiwán para regresarlo a su control
 - La persecución de cristianos así como la prohibición de las religiones cristianas
 - Los avances en inteligencia artificial (China es el #1)
 - La colocación de una sonda espacial en el lado oscuro de la Luna (¿no les recuerda la guerra fría?)
@@ -37,7 +37,7 @@ Preguntémonos, si China llegase a ser la primera potencia mundial ¿respetará 
 
 Cabe mencionar que la Iglesia Ortodoxa no se encuentra solamente en Rusia si no que esta se encuentra distribuida en varias regiones (protectorados rusos) que a China convendría conquistar eventualmente.
 
-Esta cuestión a simple vista parece muy simple pero es en realidad algo que los líderes rusos deben estar debatiendo una y otra vez y creo que estas diferencias son irreconciliables, así de este modo Rusia verá hacia su enemigo actual, Estados Unidos, cómo su mejor opción para la supervivencia de aquel país y así darse tiempo para generar una economía más sólida (Rusia pesa en armamento pero duele en economía).
+Esta cuestión a primera vista parece muy simple pero es en realidad algo que los líderes rusos deben estar debatiendo una y otra vez y creo que estas diferencias son irreconciliables, así de este modo Rusia verá hacia su enemigo actual, Estados Unidos, cómo su mejor opción para la supervivencia de aquel país y así darse tiempo para generar una economía más sólida (Rusia pesa en armamento pero duele en economía).
 
 ## Donald Trump y el conservadurismo
 
@@ -59,18 +59,17 @@ Hay que hacer un pausa aquí y retroceder a los tiempos de la gran depresión, 1
 
 Lo que nos interesa de este suceso es la solución que se dió para reactivar la economía, hay que recordar que fue un "cataclismo", este suceso tuvo un efecto mundial. Pero como decía antes, lo que nos interesa es el sistema Bretton Woods o el estándar del oro.
 
-Como mencioné antes, el oro fue el punto de Schelling tras acuerdo internacional, desde ese momento el dólar estaría respaldado en este meta precioso; sólo hasta 1970 cuando surge el estándar del petrodólar y es el que actualmente funciona y que está tambaleando.
+Como mencioné antes, el oro fue el punto de Schelling tras acuerdo internacional, desde ese momento el dólar estaría respaldado en este metal precioso; sólo hasta 1970 cuando surge el estándar del petrodólar y es el que actualmente funciona y que está tambaleando.
 
-Muchos países están muy incoformes con Estados Unidos y este estándar y China decidió explotar esa oportunidad creando una alternativa muy jugosa, el petroyuan, pero a diferencia del petrodólar el petroyuan está respaldado en oro. Pues sí, muy lista China, "llévese dos por uno"; además el petroyuan respaldado en oro no es pura faramalla puesto que China crearía un sistema para que aquellos países (clientes) que deseen el oro en vez de yuanes pueden hacer el cambio a través del Bank of Shanghai.
+Muchos países están muy incoformes con Estados Unidos y este estándar (petrodólar) y China decidió explotar esa oportunidad creando una alternativa muy jugosa, el petroyuan, pero a diferencia del petrodólar el petroyuan está respaldado en oro. Pues sí, muy lista China, "llévese dos por uno"; además el petroyuan respaldado en oro no es pura faramalla puesto que China crearía un sistema para que aquellos países (clientes) que deseen el oro en vez de yuanes pueden hacer el cambio a través del Bank of Shanghai.
 
-Uno puede percatarse que China podría jugar a dispararse en el pie, arruinar a Estados Unidos a sí mismo, pero resurgir de las cenizas para colocar un nuevo estándar de oro (ellos son los que tiene más y Estados Unidos se ha estado deshaciendo del suyo desde los 1970's).
+Uno puede percatarse que China podría jugar a dispararse en el pie, arruinar a Estados Unidos y a sí mismo, pero resurgir de las cenizas para colocar un nuevo estándar de oro (ellos son los que tiene más y Estados Unidos se ha estado deshaciendo del suyo desde los 1970's).
 
 ## Estados Unidos y Rusia contra China
 
-Ciertamente una China victoriosa sería un gran riesgo y abrá que adelantarsele, incluso el uso de su comodín (colapaso financiero suicida) y para ello abría que iniciar un nuevo estándar más moderno o muy ad hoc a la época y no puedo más que pensar en __Bitcoin__ o algo por el estilo y esta criptomoneda es odiada por el gobierno chino, tan así que ha generado leyes para prohibirla.
+Ciertamente una China victoriosa sería un gran riesgo (para Estados Unidos y Rusia) y abría que adelantarsele y evitar el uso de su comodín (colapaso financiero suicida) y para ello abría que iniciar un nuevo estándar más moderno o muy ad hoc a la época y no puedo más que pensar en __Bitcoin__ o algo por el estilo y esta criptomoneda es odiada por el gobierno chino, tan así que ha generado leyes para prohibirla.
 
-Puede ser otra cosa, pero ciertamente tendría que ser una criptomoneda pero no puede ser cualquiera puesto que todas, exceptuando Bitcoin, son sistemas centralizados y por tanto dignas de desconfianza por parte de los países dialogando por este nuevo estándar.
-
+Puede ser otra cosa, pero ciertamente tendría que ser una criptomoneda y no puede ser cualquiera puesto que todas, exceptuando Bitcoin, son sistemas centralizados y por tanto dignas de desconfianza por parte de los países dialogando por este nuevo estándar.
 
 ## Palabras finales
 
