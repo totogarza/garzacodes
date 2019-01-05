@@ -67,7 +67,7 @@ Uno puede percatarse que China podría jugar a dispararse en el pie, arruinar a 
 
 ## Estados Unidos y Rusia contra China
 
-Ciertamente una China victoriosa sería un gran riesgo (para Estados Unidos y Rusia) y abría que adelantarsele y evitar el uso de su comodín (colapaso financiero suicida) y para ello abría que iniciar un nuevo estándar más moderno o muy ad hoc a la época y no puedo más que pensar en __Bitcoin__ o algo por el estilo y esta criptomoneda es odiada por el gobierno chino, tan así que ha generado leyes para prohibirla.
+Ciertamente una China victoriosa sería un gran riesgo (para Estados Unidos y Rusia) y habría que adelantarsele y evitar el uso de su comodín (colapaso financiero suicida) y para ello abría que iniciar un nuevo estándar más moderno o muy ad hoc a la época y no puedo más que pensar en __Bitcoin__ o algo por el estilo y esta criptomoneda es odiada por el gobierno chino, tan así que ha generado leyes para prohibirla.
 
 Puede ser otra cosa, pero ciertamente tendría que ser una criptomoneda y no puede ser cualquiera puesto que todas, exceptuando Bitcoin, son sistemas centralizados y por tanto dignas de desconfianza por parte de los países dialogando por este nuevo estándar.
 
