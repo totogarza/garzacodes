@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Predicciones 2019: Estado Unidos, Rusia y China. Nuevas alianzas y un nuevo estándar económico'
+title: 'Predicciones 2019: Estado Unidos, Rusia y China'
 date: 2019-01-04 13:30 -0700
 ---
 
@@ -82,6 +82,8 @@ La única finalidad es realizar un análisis para ponderar y accionar en base a 
 
 Pero eso sí, lo que es ley es que el cambio es constante y este sistema ya hace mucho que está corroído.
 
+
+```Y, por supuesto, contamos con la participación activa de las religiones tradicionales de Rusia. En la base de la ortodoxia, el islam, el budismo y el judaísmo, con todas sus diversidades y peculiaridades, están los valores básicos de moral y espiritualidad: la caridad, la ayuda mutua, la honestidad, la justicia, el respeto a los mayores, los ideales de la familia y el trabajo. Estos pilares no pueden ser sustituidos, tenemos que reforzarlos.“ Vladímir Putin```
 
 <!--
 Referencias:
