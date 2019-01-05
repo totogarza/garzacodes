@@ -4,7 +4,7 @@ title: 'Predicciones 2019: Estado Unidos, Rusia y China'
 date: 2019-01-04 13:30 -0700
 ---
 
-Sabemos muy bien que China y Rusia son aliados, nadie puede discutir en contra de esto, sin embargo se están presentando situaciones que quizá hagan que todo esto cambio y si no quieres seguir leyendo y quieres saber de que trata todo esto pues básicamente trata sobre cómo y porqué Rusia se convertiría en aliado de Estados Unidos y enemigo de China además de las consecuencias económicas de esto.
+Sabemos muy bien que China y Rusia son aliados, nadie puede discutir en contra de esto, sin embargo se están presentando situaciones que quizá hagan que todo esto cambie y si no quieres seguir leyendo y quieres saber de que trata todo esto pues básicamente trata sobre cómo y porqué Rusia se convertiría en aliado de Estados Unidos y enemigo de China además de las consecuencias económicas de esto.
 
 Oyem pero esto no tiene lógica, todos odian a Estados Unidos y por ende muchos querrán unirse en contra de este.
 
