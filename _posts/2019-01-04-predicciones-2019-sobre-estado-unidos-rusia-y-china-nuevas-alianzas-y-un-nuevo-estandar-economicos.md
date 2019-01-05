@@ -31,6 +31,10 @@ Rusia es un país conservador cuya estructura política tiene una relación muy 
 
 ```"...en Rusia, la preservación de los fundamentos de las religiones tradicionales y el apoyo a las instituciones de la Iglesia desde el gobierno están directamente relacionados con los intereses de estabilidad política y social."```
 
+O en palabras de Putin:
+
+```Y, por supuesto, contamos con la participación activa de las religiones tradicionales de Rusia. En la base de la ortodoxia, el islam, el budismo y el judaísmo, con todas sus diversidades y peculiaridades, están los valores básicos de moral y espiritualidad: la caridad, la ayuda mutua, la honestidad, la justicia, el respeto a los mayores, los ideales de la familia y el trabajo. Estos pilares no pueden ser sustituidos, tenemos que reforzarlos.“ Vladímir Putin```
+
 Cómo dije antes, en Rusia la religión juega un papel clave y lo que ha mostrado China con su intolerancia al cristianismo no habrá pasado desapercidibido ni para el Patriarca Kiril ni para Putin.
 
 Preguntémonos, si China llegase a ser la primera potencia mundial ¿respetará el cristianismo en los países más débiles? ¿respetará a Rusia en este sentido?
@@ -80,9 +84,6 @@ Por el momento todo esto es ficción y solamente debe ser tomado como tal. Allá
 La única finalidad es realizar un análisis para ponderar y accionar en base a ese análisis. A pesar de que muchas veces las predicciones no terminan sucediendo la otra opción es no hacer nada y perderse las oportunidades que surgen en esos eventos.
 
 Pero eso sí, lo que es ley es que el cambio es constante y este sistema ya hace mucho que está corroído.
-
-
-```Y, por supuesto, contamos con la participación activa de las religiones tradicionales de Rusia. En la base de la ortodoxia, el islam, el budismo y el judaísmo, con todas sus diversidades y peculiaridades, están los valores básicos de moral y espiritualidad: la caridad, la ayuda mutua, la honestidad, la justicia, el respeto a los mayores, los ideales de la familia y el trabajo. Estos pilares no pueden ser sustituidos, tenemos que reforzarlos.“ Vladímir Putin```
 
 <!--
 Referencias:
