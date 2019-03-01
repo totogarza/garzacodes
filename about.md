@@ -40,3 +40,7 @@ Disfruto experimentar con lenguajes de programación así como con proyectos tec
 ### Certificaciones
 
 [Data Science por IBM](https://www.youracclaim.com/users/victoriano-garza/badges)
+
+### CV
+
+[Descarga mi CV aquí]({{site.url}}/archivos/CV_2019_v1.5.pdf)
