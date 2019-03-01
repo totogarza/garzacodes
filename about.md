@@ -19,9 +19,9 @@ Disfruto experimentar con lenguajes de programación así como con proyectos tec
 
 `HTML` `CSS` `JSON`
 
-`Laravel` `Express` `Electron`
+`Laravel` `Express` `Electron` `Typescript`
 
-`MySQL` `MongoDB` `Elasticsearch`
+`SQL` `NoSQL` `Elasticsearch`
 
 `pandas` `scikit learn`
 
