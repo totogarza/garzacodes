@@ -6,16 +6,15 @@ permalink: /cv
 
 ### Desarrollo de software
 
-Un poco de mi trabajo en diseño [aquí](/yo).
+Sobre mi trabajo en desarrollo [aquí](/yo).
 
 ### Diseño
 
-Un poco de mi trabajo en diseño [aquí](/diseno).
+Un poco de mi trabajo en diseño [acá](/diseno).
 
 ### Certificaciones
 
 [Data Science por IBM](https://www.youracclaim.com/users/victoriano-garza/badges)
-
 
 ### CV en pdf
 
