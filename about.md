@@ -33,14 +33,17 @@ Disfruto experimentar con lenguajes de programación así como con proyectos tec
 
 `bitcoin` `lightning network` `arduino` 
 
-<h4 id="contact">Contacto</h4>
+### Diseño
 
-<p>Email: <a href="mailto:{{site.email}}">{{site.email}}</a></p>
+Un poco de mi trabajo en diseño [aquí](/diseno).
 
 ### Certificaciones
 
 [Data Science por IBM](https://www.youracclaim.com/users/victoriano-garza/badges)
 
-### CV
 
-[Descarga mi CV aquí]({{site.url}}/archivos/CV_2019_v1.5.pdf)
+
+<h4 id="contact">Contacto</h4>
+
+<p>Email: <a href="mailto:{{site.email}}">{{site.email}}</a></p>
+
