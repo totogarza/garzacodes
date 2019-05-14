@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generando música aleatoriamente con JavaScript
-categories: proyectos
+categories: basic
 tags: javascript garageband creativecoding
 ---
 

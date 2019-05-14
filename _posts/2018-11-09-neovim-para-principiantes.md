@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NeoVim para principiantes
+categories: basic
 ---
 
 <iframe width="501" height="282" src="https://www.youtube.com/embed/KDqxGuULOyQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

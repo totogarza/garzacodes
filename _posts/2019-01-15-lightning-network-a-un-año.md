@@ -2,6 +2,7 @@
 layout: post
 title: Lightning Network a un año
 date: 2019-01-15 09:45 -0700
+categories: basic
 ---
 
 Ya es un poco más de un año desde el lanzamiento de __LN__ a la _mainnet_ de __Bitcoin__ y es impresionante todo el trabajo que programadores por todo el mundo han estado realizando para mejorar el protocolo y también construyendo encima de este.

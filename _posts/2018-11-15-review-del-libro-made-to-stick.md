@@ -3,6 +3,7 @@ layout: post
 title: Review del libro Made to Stick
 date: 2018-11-15 17:30 -0700
 calification: 5
+categories: basic
 ---
 <style>
     #app{

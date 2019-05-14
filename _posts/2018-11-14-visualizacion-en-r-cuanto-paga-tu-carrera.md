@@ -3,6 +3,7 @@ layout: post
 title: 'Visualización en R: ¿Cuánto paga tú carrera?'
 date: 2018-11-14 11:38 -0700
 tags: r shiny flexdashboard
+categories: basic
 ---
 
 <a href="https://datic.shinyapps.io/cuanto-paga-mi-carrera" target="_blank"><img src="https://res.cloudinary.com/yipster/image/upload/v1542222396/cuanto-paga-mi-carrera_zhq91m.png" width="600px" alt="Vista previa - ¿Cuando paga mi carrera?"></a>

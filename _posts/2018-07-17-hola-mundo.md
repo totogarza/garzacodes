@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hola Mundo"
-categories: opinion
+categories: opinion basic
 ---
 
 Este es un nuevo intento, uno más de tantos otros, de plasmar por escrito todo lo que he aprendido y voy aprendiendo sobre tecnología o más específicamente sobre **desarrollo de software**. Cada proyecto que realizo me deja una experiencia distinta ya que las problemáticas varían totalmente en cada uno de estos y por ello creo muy importante la tarea de escribir al respecto; en parte para mi (para tener una fuente de información a la que pueda regresar y consultar) y en parte para todo aquella persona que llegue a a dar a este lugar y a la cual pueda ayudar con un granito de información sobre algún tema de su interés.

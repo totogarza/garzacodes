@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adios a Facebook y a sus subempresas
+categories: basic
 ---
 
 Facebook y sus compañías subsidiarias fungen como una herramienta que sirve a los propósitos de un reducido grupo o una élite.

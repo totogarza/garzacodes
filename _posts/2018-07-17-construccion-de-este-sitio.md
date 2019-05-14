@@ -2,7 +2,7 @@
 layout: post
 title: Construcción de este sitio
 date: 2018-07-17 18:00 -0600
-categories: static
+categories: static basic
 tags: jekyll
 ---
 
