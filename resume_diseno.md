@@ -85,3 +85,8 @@ Llamar la atención en redes sociales requiere de una buena cantidad de elemento
 <img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557855039/tanoshii/social-2.png" alt="" width="45%">
 
 
+<hr>
+
+### Stack
+
+`Photoshop` `Illustrator` `Audition` `Screenflow` `JavaScript` `PowToon`
