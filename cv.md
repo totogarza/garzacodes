@@ -18,7 +18,7 @@ Un poco de mi trabajo en diseño [acá](/diseno).
 
 ### CV en pdf
 
-[Descargar cv](https://res.cloudinary.com/dfhxsuwjv/image/upload/v1557857048/tanoshii/CV_2019_v1.6.pdf)
+[Descargar cv](https://res.cloudinary.com/dfhxsuwjv/image/upload/v1559438767/CV_2019_v1.7-compressed_y9vxm8.pdf)
 
 <h4 id="contact">Contacto</h4>
 
