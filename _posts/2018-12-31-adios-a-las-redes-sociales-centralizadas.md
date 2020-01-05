@@ -32,7 +32,6 @@ __Scuttlebutt__ es en realidad el concepto o la idea sobre el cómo  debería se
 
 En mi caso yo uso __Patchwork__ que es uno de los clientes disponibles para SSB.
 
-<img src="https://res.cloudinary.com/dfhxsuwjv/image/upload/v1546296097/patchwork_jfsxze.png" alt="Interfaz de Patchwork" width="100%">
 
 En otro post hablaré más sobre Scuttlebutt y Patchwork pero por el momento échale un vistazo a los sitios web de estos para que te vayas familiarizando, ah y otra cosa que es importante enteder de __Scuttlebutt__ es que la información que generas es almacenada en tu computadora, si eliminas esta información despídete para siempre de esta.
 
