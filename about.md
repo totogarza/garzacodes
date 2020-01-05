@@ -1,25 +1,17 @@
 ---
 layout: main
 title: Sobre mi
-avatar: "https://res.cloudinary.com/yipster/image/upload/v1542218942/IMG_20181031_094609_863_ybjpx1.jpg"
 permalink: /yo
 ---
 
-<div style="background:url({{page.avatar}}); background-size:100px; width:100px; height:100px;border-radius:50px;"></div>
 
-Me encanta la lectura, las plantas, el código y el café.
+__Data scientist__, me encanta la lectura, las plantas, el código, el café y por supuesto, los datos.
 
-Desarrollador __Full Stack__.
 
-Disfruto experimentar con lenguajes de programación así como con proyectos tecnológicos con  hardware abierto como `arduino` o `raspberry pi`. 
 
 ### Stack
 
-`Python` `PHP` `Go` `R` `JavaScript` `NodeJs` `VB`
-
-`HTML` `CSS` `JSON`
-
-`Laravel` `Express` `Electron` `Typescript`
+`Python` `Go` `R` `JavaScript` `NodeJs`
 
 `SQL` `NoSQL` `Elasticsearch`
 
@@ -27,20 +19,7 @@ Disfruto experimentar con lenguajes de programación así como con proyectos tec
 
 `machine learning` `análisis estadístico`
 
-`watson studio` `jupyter`
-
-### Otros
-
-`bitcoin` `lightning network` `arduino` 
-
-### Diseño
-
-Un poco de mi trabajo en diseño [aquí](/diseno).
-
-### Certificaciones
-
-[Data Science por IBM](https://www.youracclaim.com/users/victoriano-garza/badges)
-
+`jupyter`
 
 
 <h4 id="contact">Contacto</h4>
