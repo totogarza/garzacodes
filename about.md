@@ -1,25 +1,23 @@
 ---
 layout: main
-title: Sobre mi
+title: Un poco sobre mi
 permalink: /yo
 ---
 
+__Software Architect__ en __Bioteksa__
 
-__Data scientist__, me encanta la lectura, las plantas, el código, el café y por supuesto, los datos.
+Mis intereses circulan alrededor de el software, especialmente la parte de la arquitectura y la optimización de recursos. Fuera de eso me gustan las plantas, la geopolítica y la toma de decisiones como habilidad medible (sí, es una habilidad).
 
 
+### Stack General
 
-### Stack
+`Python`  `PHP`  `JavaScript` `SQL`
 
-`Python` `Go` `R` `JavaScript` `NodeJs`
+`Laravel` `Flask`
 
-`SQL` `NoSQL` `Elasticsearch`
+`Docker` `Kafka` `Metabase`
 
-`pandas` `scikit learn`
-
-`machine learning` `análisis estadístico`
-
-`jupyter`
+`pandas`  `jupyter`
 
 
 <h4 id="contact">Contacto</h4>
