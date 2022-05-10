@@ -27,5 +27,36 @@ Una organización pequeña reflejará su estructura en muchas cosas de las que d
 
 El enfoque es por supuesto desde el punto de vista de lo que beneficie más a la empresa y por ello la parte personal (sesgo) debería quedar fuera de la fórmula de lo contrario incurriremos en una mala decisión sin duda alguna.
 
+<div style="padding-rigth:100em;">
+@startmermaid
+graph LR
 
+a[Empresa]
 
+subgraph b[Recursos]
+    c[Capital]
+    d[Recurso Humano]
+end
+
+subgraph e[Necesidades]
+    f[Administrar]
+    g[Automatizar]
+    h[Lucrar]
+end
+
+subgraph i[Características]
+    j[Tamaño]
+    k[Misión y Visión]
+    l[Giro]
+end
+
+c & d --> a
+
+f & g & h --> a
+
+j & k & l --> a
+
+a-->1[Información que debiera influir en la decisión de desarrollo]
+
+@endmermaid
+</div>
