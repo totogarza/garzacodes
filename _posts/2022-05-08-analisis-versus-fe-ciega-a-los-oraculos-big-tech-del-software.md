@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Análisis versus fé ciega a los oráculos big tech software
+title: Análisis versus fé ciega a los oráculos big tech del software
 date: 2022-05-08 17:32 -0600
-categories: programación
+categories: basic programacion
 ---
 
 Es indudable las aportaciones que hacen los grandes corporativos a la industria del software pero sus problemas no son los mismos que los problema de las pequeñas o micro empresas y me refiero a que estas empresas diseñan soluciones con visión de su propia organización interna y si esta es compleja también lo serán sus soluciones y esto es normal y no lo digo a forma de criticarles o juzgarles, más bien todo lo contrario, lo digo a manera de crítica para aquellos de nosotros que no llevamos un análisis para las organizaciones para las que laboramos y no determinamos con base a evidencia cual es el mejor camino a seguir para llevar a cabo un proyecto.
