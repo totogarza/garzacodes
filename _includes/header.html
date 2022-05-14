@@ -4,13 +4,13 @@
   <meta charset=utf-8>
   <meta name=author content='{{ site.author }}' />
   <meta name='theme-color' content='#fff' />
-  <meta name='twitter:title' content='Archive' />
-  <meta name=description content="" />
+
+  {% include metatags.html %}
+
   <meta name=viewport content='width=device-width,minimum-scale=1'>
   <meta property='og:site_name' content='{{ site.url }}'/>
   <meta property='og:email' content='{{ site.email }}'/>
   <meta property='og:type' content=blog />
-  <meta property='twitter:account_id' content={{site.twitter_id}} />
   
   <script type='application/ld+json'>
   { "@context": "http://schema.org",
@@ -24,5 +24,4 @@
   <link rel="stylesheet" href="{{ site.url }}/css/custom.css">
   <title>{{page.title}}</title>
   <link rel=webmention href='https://webmention.io/macwright.org/webmention' />
-  
 </head>
