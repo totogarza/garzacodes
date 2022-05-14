@@ -3,7 +3,7 @@ layout: post
 title: Lo que me enseñó Bitcoin sobre el crisitianismo
 date: 2022-05-13 22:16 -0600
 categories: basic cristianismo
-cover:
+cover: https://images.unsplash.com/photo-1591994843349-f415893b3a6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80
 description: Reflexión sobre mi camino en bitcoin, lo aprendido y la metáfora trasladable al cristianismo.
 url: basic/cristianismo/2022/05/13/lo-que-me-enseno-bitcoin-sobre-el-crisitianismo.html
 ---
