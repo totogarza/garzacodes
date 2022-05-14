@@ -3,6 +3,9 @@ layout: post
 title: Lo que me enseñó Bitcoin sobre el crisitianismo
 date: 2022-05-13 22:16 -0600
 categories: basic cristianismo
+cover:
+description: Reflexión sobre mi camino en bitcoin, lo aprendido y la metáfora trasladable al cristianismo.
+url: basic/cristianismo/2022/05/13/lo-que-me-enseno-bitcoin-sobre-el-crisitianismo.html
 ---
 
 Cuando hablamos de la moral o de nuestro camino espiritual poco o nada se habla sobre el dinero y cualquier católico estará de acuerdo en que es un tema que en apariencia no tiene una relevancia en el contexto espiritual. Esto es cierto por un lado, pero por otro, todo aquello que impacta tan directamente nuestras vidas tiene una influencia sobre nuestro camino espiritual y el dinero es quizá una de las cosas que más impacto tiene en nuestras vidas.
